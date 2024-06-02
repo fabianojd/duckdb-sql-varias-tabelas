@@ -1,0 +1,94 @@
+id	categoria_id	descricao	tamanho	custoUnitario 
+1	1	Casual Day	M	54,00
+2	1	Casual Day	P	54,00
+3	1	Casual Day	G	54,00
+4	1	Psyco Universe	GG	36,00
+5	1	Psyco Universe	P	36,00
+6	1	Psyco Universe	G	36,00
+7	1	Psyco Universe	M	36,00
+8	1	Psyco Classic	M	75,00
+9	1	Psyco Classic	G	75,00
+10	1	Psyco Classic	P	75,00
+11	1	Marine Slim	G	57,00
+12	1	Marine Slim	P	57,00
+13	1	Marine Slim	M	57,00
+14	1	Psyco Crew	P	66,00
+15	1	Psyco Crew	G	66,00
+16	1	Psyco Crew	M	66,00
+17	1	Cammelina	M	60,00
+18	1	Cammelina	G	60,00
+19	1	Cammelina	P	60,00
+20	1	Klamath	GG	36,00
+21	1	Klamath	P	36,00
+22	1	Klamath	G	36,00
+23	1	Klamath	M	36,00
+24	1	Klamath Weed	P	43,80
+25	1	Klamath Weed	M	43,80
+26	1	Klamath Weed	G	43,80
+27	1	Klamath White	M	48,00
+28	1	Klamath White	P	48,00
+29	1	Klamath White	G	48,00
+30	2	Havaiana	M	60,00
+31	2	Havaiana	P	60,00
+32	2	Havaiana	G	60,00
+33	2	Havaiana	GG	60,00
+34	2	Lilium	M	66,00
+35	2	Lilium	P	66,00
+36	2	Lilium	G	66,00
+37	2	Lilium	GG	66,00
+38	3	Blazer Slim Fit	M	120,00
+39	3	Blazer Slim Fit	G	120,00
+40	3	Blazer Slim Fit	GG	120,00
+41	3	Blazer Slim Fit	P	120,00
+42	2	Paeonia	GG	45,00
+43	2	Paeonia	M	45,00
+44	2	Paeonia	P	45,00
+45	2	Paeonia	G	45,00
+46	2	Roseta	M	69,00
+47	2	Roseta	P	69,00
+48	2	Roseta	G	69,00
+49	2	Roseta	GG	69,00
+50	3	Blazer Poderoso Chefão	P	216,00
+51	3	Blazer Poderoso Chefão	G	216,00
+52	3	Blazer Poderoso Chefão	M	216,00
+53	3	Blazer Poderoso Chefão	GG	216,00
+54	2	Intense	P	75,00
+55	2	Intense	GG	75,00
+56	2	Intense	G	75,00
+57	2	Intense	M	75,00
+58	2	Folhagem	M	78,00
+59	2	Folhagem	GG	78,00
+60	2	Folhagem	G	78,00
+61	2	Folhagem	P	78,00
+62	2	Caribe	G	46,80
+63	2	Caribe	P	46,80
+64	2	Caribe	GG	46,80
+65	2	Caribe	M	46,80
+66	2	Tropical	G	42,00
+67	2	Tropical	P	42,00
+68	2	Tropical	GG	42,00
+69	2	Tropical	M	42,00
+70	2	Canadense	P	63,00
+71	2	Canadense	M	63,00
+72	2	Canadense	GG	63,00
+73	2	Canadense	G	63,00
+74	2	Cigano	P	69,00
+75	2	Cigano	GG	69,00
+76	2	Cigano	M	69,00
+77	2	Cigano	G	69,00
+78	2	Porto Rico	M	66,00
+79	2	Porto Rico	P	66,00
+80	2	Porto Rico	G	66,00
+81	2	Porto Rico	GG	66,00
+82	2	Oriente	P	60,00
+83	2	Oriente	M	60,00
+84	2	Oriente	GG	60,00
+85	2	Oriente	G	60,00
+86	2	Beach Flash	P	48,00
+87	2	Beach Flash	G	48,00
+88	2	Beach Flash	GG	48,00
+89	2	Beach Flash	M	48,00
+90	4	Incomparaveis	P	33,00
+91	4	Incomparaveis	M	33,00
+92	4	Incomparaveis	G	33,00
+93	4	Incomparaveis	GG	33,00
